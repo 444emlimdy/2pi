@@ -39,7 +39,7 @@ android {
     defaultConfig {
         applicationId = "com.twopi.store"
         minSdk = 24
-        targetSdk = 28
+        targetSdk = 33
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
     }
